@@ -62,8 +62,9 @@ const Hero = () => {
                            Consistent hard work gain success.
                            Greatness will come
                            Welcome to Red Store
+                           <span>  <a href="https://www.privacypolicies.com/live/4bdc6158-4e6e-47d4-a7a1-d6d9c3a63aea">🔐Our Policy</a></span>
                         </p>
-                        <a href="https://www.privacypolicies.com/live/4bdc6158-4e6e-47d4-a7a1-d6d9c3a63aea">🔐Our Policy</a>
+                      
                         <Link to="/all">
                            <button className="w-full px-5 py-2 mt-6 text-sm tracking-wider text-white uppercase transition-colors duration-300 transform bg-blue-600 rounded-lg lg:w-auto hover:bg-blue-500 focus:outline-none focus:bg-blue-500 animate__animated animate__rubberBand animate__infinite">
                               Shop Now
